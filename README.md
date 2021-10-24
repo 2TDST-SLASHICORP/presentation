@@ -10,4 +10,4 @@ Juan Carlos Benvive Serrano (RM85468)
 
 # VIDEO
 
-[![Watch the video](https://img.youtube.com/vi/gvgY8q6N22c/maxresdefault.jpg)](https://www.youtube.com/watch?v=gvgY8q6N22c)
+[![Watch the video](https://img.youtube.com/vi/X_q7-46QoAQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=X_q7-46QoAQ)
